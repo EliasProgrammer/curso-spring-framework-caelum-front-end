@@ -1,0 +1,26 @@
+.title {
+    margin-bottom: 20px;
+}
+
+.createTopic-form {
+    margin-top: 30px;
+}
+
+.createTopic-form-title {
+    border: 2px solid #c1c7ca;
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 50%;
+}
+
+.validation-message {
+    background-color: #f9fbfd;
+    color: #c0392b;
+}
+
+.createTopic-form-button {
+    margin-top: 30px;
+}

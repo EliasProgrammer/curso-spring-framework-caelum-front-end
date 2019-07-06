@@ -1,0 +1,71 @@
+.link {
+    cursor: pointer;
+}
+
+@media (min-width: 720px) {
+    .topic-breadCrumb-item-category-Mobile{
+        background-color:#fdc14a;
+    }
+    
+    .topic-breadCrumb-item-category-Programação {
+        background-color:#00c86f;
+    }
+    
+    .topic-breadCrumb-item-category-Front-end {
+        background-color:#009bdd;
+    }
+    
+    .topic-breadCrumb-item-category-Infraestrutura {
+        background-color:#f1634b;
+    }
+    
+    .topic-breadCrumb-item-category-Design {
+        background-color:#9d60b8;
+    }
+    
+    .topic-breadCrumb-item-category-Business {
+        background-color:#0079ac;
+    }
+
+    .subcategory {
+        opacity: .8;
+    }
+    
+    .course {
+        opacity: .6;
+    }
+}
+
+@media not all and (min-width: 720px) {
+    .topic-breadCrumb-item-category-Mobile{
+        background-color:#fdc14a;
+    }
+    
+    .topic-breadCrumb-item-category-Programação {
+        background-color:#00c86f;
+    }
+    
+    .topic-breadCrumb-item-category-Front-end {
+        background-color:#009bdd;
+    }
+    
+    .topic-breadCrumb-item-category.Infraestrutura {
+        background-color:#f1634b;
+    }
+    
+    .topic-breadCrumb-item-category-Design {
+        background-color:#9d60b8;
+    }
+    
+    .topic-breadCrumb-item-category-Business {
+        background-color:#0079ac;
+    }
+
+    .subcategory {
+        opacity: .8;
+    }
+    
+    .course {
+        opacity: .6;
+    }
+}

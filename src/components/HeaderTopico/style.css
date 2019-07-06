@@ -1,0 +1,27 @@
+@media (min-width: 720px) {
+    #topic-breadCrumb-item-category-64479 {
+        background: #fdc14a;
+    }
+    #topic-breadCrumb-item-subcategory-64479 {
+        background: #fdc14a;
+        opacity: .8;
+    }
+    #topic-breadCrumb-item-course-64479 {
+        background: #fdc14a;
+        opacity: .6;
+    }
+}
+
+@media not all and (min-width: 720px) {
+    #topic-breadCrumb-item-category-64479 {
+        color: #fdc14a;
+    }
+    #topic-breadCrumb-item-subcategory-64479 {
+        color: #fdc14a;
+        opacity: .8;
+    }
+    #topic-breadCrumb-item-course-64479 {
+        color: #fdc14a;
+        opacity: .6;
+    }
+}

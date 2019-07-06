@@ -1,0 +1,32 @@
+
+.headerBusca {
+    background: #FFE000;
+}
+
+.headerBusca-form button {
+    color: #FFE000;
+}
+
+.headerBusca-icon {
+    border: 2px solid #FFE000;
+    background-color: #FFE000;
+}
+
+/* Estilos extraídos das tags dos componentes JSX  */
+
+.googleIframe-style {
+    display: none;
+    visibility: hidden;
+}
+
+.natural-header-style {
+    border-top: 4px solid #FFE000;
+}
+
+.headerMobile-style {
+    border-top: 4px solid #FFE000;
+}
+
+.headerDesktop-style {
+    border-top: 4px solid #FFE000;
+}

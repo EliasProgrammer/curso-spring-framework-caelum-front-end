@@ -1,0 +1,1 @@
+document.getElementById("markdownEditor-text-ta").addEventListener("keydown",function(e){13==e.keyCode&&(e.ctrlKey||e.metaKey)&&this.form.submit()});

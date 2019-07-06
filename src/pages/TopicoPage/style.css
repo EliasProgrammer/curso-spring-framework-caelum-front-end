@@ -1,0 +1,3 @@
+.topic-solved-text:before {
+    background-image: url(./resources/icon-solved.svg);
+}

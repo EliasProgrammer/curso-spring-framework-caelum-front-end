@@ -1,0 +1,1 @@
+$("#close-link").on("click",function(e){e.preventDefault(),1==confirm("Deseja mesmo fechar esse tópico?")&&(window.location.href=document.getElementById("close-link").href)});

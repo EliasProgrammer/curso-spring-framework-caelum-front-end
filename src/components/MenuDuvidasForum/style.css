@@ -1,0 +1,40 @@
+.menuTodasCategorias {
+    background-color:#697074;
+}
+
+.menuMobile{
+    background-color:#fdc14a;
+}
+
+.menuProgramacao {
+    background-color:#00c86f;
+}
+
+.menuFrontEnd {
+    background-color:#009bdd;
+}
+
+.menuInfraestrutura {
+    background-color:#f1634b;
+}
+
+.menuDesign {
+    background-color:#9d60b8;
+}
+
+.menuBusiness {
+    background-color:#0079ac;
+}
+
+.button-new-topic {
+    border-color: rgba(0,0,0, .1);
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.button-new-topic:hover {
+    background-color: rgba(250,250,250, .1);
+}

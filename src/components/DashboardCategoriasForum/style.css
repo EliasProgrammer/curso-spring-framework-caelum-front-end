@@ -1,0 +1,47 @@
+.categoriaListaBordaMobile{
+    border-left-color: #fdc14a;
+}
+
+.categoriaListaMobile{
+    color: #fdc14a;
+}
+
+.categoriaListaBordaProgramacao{
+    border-left-color: #00c86f;
+}
+
+.categoriaListaProgramacao {
+    color: #00c86f;
+}
+
+.categoriaListaBordaFrontEnd{
+    border-left-color: #009bdd;
+}
+
+.categoriaListaFrontEnd{
+    color: #009bdd;
+}
+
+.categoriaListaBordaInfra{
+    border-left-color: #f1634b;
+}
+
+.categoriaListaInfra{
+    color: #f1634b;
+}
+
+.categoriaListaBordaDesign{
+    border-left-color: #9d60b8;
+}
+
+.categoriaListaDesign{
+    color: #9d60b8;
+}
+
+.categoriaListaBordaBusiness{
+    border-left-color: #0079ac;
+}
+
+.categoriaListaBusiness{
+    color: #0079ac;
+}
